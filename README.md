@@ -1,2 +1,2 @@
 # BA-810
-Repository for Supervised Machine Learning
+Repository for the 'Supervised Machine Learning' class 
